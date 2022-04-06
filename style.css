@@ -33,7 +33,7 @@ body{
 .a,.b,.c,.d,.e,.f,.g,.h,.i,.j{
     border-top: 2px solid black;
     border-left: 2px solid black;  
-    box-shadow: 2px 2px 6px black;
+    box-shadow: 2px 2px 8px black;
 }
 .padre{
     animation: girar 1000s ease infinite;
